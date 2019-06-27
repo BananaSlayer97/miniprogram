@@ -1,0 +1,1 @@
+<van-button type="primary" bind:click="scanCode">主要按钮</van-button>
